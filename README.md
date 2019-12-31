@@ -14,7 +14,7 @@ Unity Firebase Setup
 <img width="1440" alt="Captura de Tela 2019-12-06 às 19 54 57" src="https://user-images.githubusercontent.com/3121488/70362042-5fb85900-1862-11ea-89f2-b82a8df546d8.png">
 
 # App Setup
-<img width="1436" alt="Captura de Tela 2019-12-06 às 19 58 23" src="https://user-images.githubusercontent.com/3121488/70362234-fa189c80-1862-11ea-9f9e-0c59f8f5a5d6.png">
+![form-unity-app](https://user-images.githubusercontent.com/3121488/71634963-ffb59800-2bfe-11ea-870d-e50158c3e0bd.PNG)
 
 # SDK Setup
 1. Download it
